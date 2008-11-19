@@ -23,7 +23,6 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /config.in -text
-/configure -text
 /configure.ac -text
 /en-gl-latin1.prob -text
 /en-gl-supervised.make -text
