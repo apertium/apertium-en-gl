@@ -6,7 +6,6 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/aclocal.m4 -text
 /apertium-en-gl.en-gl.dix -text
 /apertium-en-gl.en-gl.t1x -text
 /apertium-en-gl.en-gl.t2x -text
