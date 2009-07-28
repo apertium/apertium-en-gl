@@ -36,4 +36,5 @@
 /lextor.make -text
 /modes.xml -text
 /principal.xsl -text
+/testvoc-en-gl -text
 /translate-to-default-equivalent.xsl -text
