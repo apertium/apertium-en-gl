@@ -1,10 +1,12 @@
 /*.bin
+/*.dat
 /*.mode
 /.deps
 /INSTALL
 /Makefile
 /Makefile.in
 /aclocal.m4
+/apertium-en-gl.en.dix
 /autom4te.cache
 /config
 /config.in
