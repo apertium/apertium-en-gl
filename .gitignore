@@ -15,3 +15,6 @@
 /missing
 /modes
 /stamp-h1
+t/*.html
+t/.git
+t/config.sh.in

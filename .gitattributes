@@ -34,5 +34,13 @@
 /lextor.make -text
 /modes.xml -text
 /principal.xsl -text
+t/README.org -text
+t/config.sh -text
+t/latest-pending.results -text
+t/latest-regression.results -text
+t/pending-tests -text
+t/regression-tests -text
+t/update-latest -text
+t/wiki-tests -text
 /testvoc-en-gl -text
 /translate-to-default-equivalent.xsl -text
