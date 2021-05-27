@@ -14,19 +14,19 @@ Running Pending-tests with mode "en-gl" with updated tests ...
 <link rel="edit" title="Edit" href="/w/index.php?title=Apertium-en-gl/Regression_tests&amp;action=edit" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Apertium (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="http://wiki.apertium.org/w/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.apertium.org/w/api.php?action=rsd" />
 <link rel="copyright" href="http://www.gnu.org/copyleft/fdl.html" />
 <link rel="alternate" type="application/atom+xml" title="Apertium Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="http://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<link rel="stylesheet" href="https://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
 <!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="http://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=monobook&amp;*" />
+<link rel="stylesheet" href="https://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=monobook&amp;*" />
 <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
 
 /* cache key: wikidb:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */
 </style>
 
-<script src="http://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script src="https://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Apertium-en-gl/Regression_tests","wgTitle":"Apertium-en-gl/Regression tests","wgCurRevisionId":59174,"wgArticleId":7115,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Apertium-en-gl/Regression_tests","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Apertium-en-gl/Pending_tests"});
 }</script><script>if(window.mw){
@@ -52,7 +52,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 		<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
 		<!-- start content -->
 <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="redirectMsg"><img src="/w/skins/common/images/redirectltr.png" alt="#REDIRECT" /><span class="redirectText"><a href="/wiki/English_and_Galician/Regression_tests" title="English and Galician/Regression tests">English and Galician/Regression tests</a></span></div></div><div class="printfooter">
-Retrieved from "<a href="http://wiki.apertium.org/w/index.php?title=Apertium-en-gl/Regression_tests&amp;oldid=59174">http://wiki.apertium.org/w/index.php?title=Apertium-en-gl/Regression_tests&amp;oldid=59174</a>"</div>
+Retrieved from "<a href="https://wiki.apertium.org/w/index.php?title=Apertium-en-gl/Regression_tests&amp;oldid=59174">https://wiki.apertium.org/w/index.php?title=Apertium-en-gl/Regression_tests&amp;oldid=59174</a>"</div>
 		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
 				<div class="visualClear"></div>
 	</div>
@@ -137,5 +137,5 @@ Retrieved from "<a href="http://wiki.apertium.org/w/index.php?title=Apertium-en-
 <script>if(window.mw){
 mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
 }</script>
-<script src="http://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script src="https://wiki.apertium.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=monobook&amp;*"></script>
 <!-- Served in 0.619 secs. --></body></html>0 / 0
