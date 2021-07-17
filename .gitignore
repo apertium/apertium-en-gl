@@ -20,3 +20,5 @@
 t/*.html
 t/.git
 t/config.sh.in
+/test/*-output.txt
+/ap_include.am

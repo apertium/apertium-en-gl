@@ -1,0 +1,6 @@
+{
+    "en-gl-regression": {
+        "input": "en-gl-regression-input.txt",
+        "mode": "en-gl"
+    }
+}

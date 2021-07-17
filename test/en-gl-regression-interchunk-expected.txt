@@ -1,0 +1,2 @@
+[xOMnXeVSfLlq#0] ^Det_nom<SN><DET><m><sg>{^o<det><def><3><4>$ &^golfiño<n><3><4>$}$^punt<sent>{^;<sent>$}$ ^nom<SN><UNDET><m><sg>{^Manual<n><3><4>$}$
+[/xOMnXeVSfLlq]
